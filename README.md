@@ -22,7 +22,7 @@ Hi there! I'm Boniface, a passionate developer interested in web technologies an
 <a href="https://www.instagram.com/mureithi_3">
   <img src="instagram.png" height="30" width="30" alt="Portfolio">
 </a>
-![Snake animation](https://github.com/bonifacemuriithi/bonifacemuriithi/blob/output/github-contribution-grid-snake.svg)
+
 
 #### :rocket: Alittle about me and My interests
 
@@ -87,7 +87,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="45" height="45"/>
 </p>
-
+![Snake animation](https://github.com/bonifacemuriithi/bonifacemuriithi/blob/output/github-contribution-grid-snake.svg)
 
 
 

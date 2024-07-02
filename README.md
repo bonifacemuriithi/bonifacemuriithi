@@ -23,8 +23,10 @@ Hi there! I'm Boniface, a passionate developer interested in web technologies an
   <img src="instagram.png" height="30" width="30" alt="Portfolio">
 </a>
 
+#### Alittle about me and My interests
+
 ```yaml
-* Hi there 👋
+Name: Boniface Muriithu
 * 👨‍💻 Full Stack Developer
 * 🌍 Nairobi, Kenya
 * 💼 Open to job opportunities

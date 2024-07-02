@@ -26,23 +26,21 @@ Hi there! I'm Boniface, a passionate developer interested in web technologies an
 #### :rocket: Alittle about me and My interests
 
 ```yaml
-name: Piyush Malhotra
-located_in: Calgary, Alberta
-current_job: Full Stack Developer
-education:
+Name: Boniface Muriithi Mwitu
+Location: Nairobi, Kenya
+Current_job: Full Stack Developer
+Education:
   [
     "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "Bachelor's in Business information Technology",
   ]
-company: Soulber
 
 fields_of_interests:
   [
     "Web Development",
+    "UI/UX",
     "Data Science",
     "Machine Learning",
-    "UI/UX",
     "Game Development",
     "DevOps",
   ]
@@ -52,7 +50,6 @@ technical_background:
     "DevOps Solutions Architect",
     "Intern - Data Science & Machine Learning in Python",
     "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
   ]
   
 currently_learning: ["Docker, Kubernetes, and React Native"]

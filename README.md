@@ -15,17 +15,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac dolor vel libe
 
 ### Connect with Me
 
-<a href="https://www.linkedin.com/in/your-linkedin-profile/">
+<a href="https://www.linkedin.com/in/boniface-muriithi-0347052a6">
   <img src="link.png" height="30" width="30" alt="LinkedIn">
 </a>
-<a href="https://medium.com/@your-medium-profile/">
-  <img src="icons/medium.png" height="30" width="30" alt="Medium">
+<a href="https://www.dev.to/bonifacemuriithi/">
+  <img src="dev.png" height="30" width="30" alt="Medium">
 </a>
-<a href="https://dev.to/your-dev-profile">
-  <img src="icons/dev.png" height="30" width="30" alt="Dev.to">
+<a href="https://www.x.com/bonieafc">
+  <img src="x.png" height="30" width="30" alt="Dev.to">
 </a>
-<a href="https://your-portfolio-website.com">
-  <img src="icons/portfolio.png" height="30" width="30" alt="Portfolio">
+<a href="https://www.instagram.com/mureithi_3">
+  <img src="instagram.png" height="30" width="30" alt="Portfolio">
 </
 
 

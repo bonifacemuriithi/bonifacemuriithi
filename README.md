@@ -26,15 +26,38 @@ Hi there! I'm Boniface, a passionate developer interested in web technologies an
 #### :rocket: Alittle about me and My interests
 
 ```yaml
-Name: Boniface Muriithu
-* 👨‍💻 Full Stack Developer
-* 🌍 Nairobi, Kenya
-* 💼 Open to job opportunities
-* 🎓 Bachelor of Business Information Technology
-* 🌱 Currently learning React.js and Docker
-* 💬 Ask me about web development, Laravel, and data security
-* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/boniface-muriithi-mwitu-52b76b170/)
-* ⚡ Fun fact: I love playing chess and cooking
+name: Piyush Malhotra
+located_in: Calgary, Alberta
+current_job: Full Stack Developer
+education:
+  [
+    "Self-Taught Developer and Designer",
+    "Master's in Electrical and Computer Engineering",
+    "Bachelor's in Electronics and Communication",
+  ]
+company: Soulber
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "UI/UX",
+    "Game Development",
+    "DevOps",
+  ]
+technical_background:
+  [
+    "Full Stack Developer"
+    "DevOps Solutions Architect",
+    "Intern - Data Science & Machine Learning in Python",
+    "Intern - Internet Of Things",
+    "Intern - VLSI and FPGA Implementation",
+  ]
+  
+currently_learning: ["Docker, Kubernetes, and React Native"]
+2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 
 
 

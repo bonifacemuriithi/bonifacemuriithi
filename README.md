@@ -22,9 +22,18 @@ Hi there! I'm Boniface, a passionate developer interested in web technologies an
 <a href="https://www.instagram.com/mureithi_3">
   <img src="instagram.png" height="30" width="30" alt="Portfolio">
 </a>
+
 ```yaml
-* YOUR TEXT GOES HERE *
-```
+* Hi there 👋
+* 👨‍💻 Full Stack Developer
+* 🌍 Nairobi, Kenya
+* 💼 Open to job opportunities
+* 🎓 Bachelor of Business Information Technology
+* 🌱 Currently learning React.js and Docker
+* 💬 Ask me about web development, Laravel, and data security
+* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/boniface-muriithi-mwitu-52b76b170/)
+* ⚡ Fun fact: I love playing chess and cooking
+
 
 
 

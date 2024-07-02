@@ -7,7 +7,8 @@
 ## About Me
 
 Hi there! I'm Boniface, a passionate developer interested in web technologies and open-source projects. Currently learning...
-<a href="https://www.linkedin.com/in/your-linkedin-profile/">
-  <img src="icons/link.png" height="30" width="30" alt="LinkedIn">
-</a>
+
+### Connect with Me
+
+
 

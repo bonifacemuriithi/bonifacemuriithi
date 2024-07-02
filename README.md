@@ -23,7 +23,7 @@ Hi there! I'm Boniface, a passionate developer interested in web technologies an
   <img src="instagram.png" height="30" width="30" alt="Portfolio">
 </a>
 
-#### Alittle about me and My interests
+#### rocket: Alittle about me and My interests
 
 ```yaml
 Name: Boniface Muriithu

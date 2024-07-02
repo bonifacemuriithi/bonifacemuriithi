@@ -21,7 +21,10 @@ Hi there! I'm Boniface, a passionate developer interested in web technologies an
 </a>
 <a href="https://www.instagram.com/mureithi_3">
   <img src="instagram.png" height="30" width="30" alt="Portfolio">
-</
+</a>
+```yaml
+* YOUR TEXT GOES HERE *
+```
 
 
 

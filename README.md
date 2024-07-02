@@ -1,7 +1,7 @@
 # Boniface Muriithi Mwitu
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello there!%F0%9F%95%B9%EF%B8%8F&animation=fadeIn&type=waving&color=gradient&height=100">
+  <img src="https://capsule-render.vercel.app/api? type=waving&height=300&color=gradient&text=Input%20text">
 </p>
 
 ## About Me

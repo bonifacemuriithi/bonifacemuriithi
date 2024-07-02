@@ -6,12 +6,7 @@
 
 ## About Me
 
-Hi there! I'm Boniface, a passionate developer interested in web technologies and open-source projects. Currently learning...
-
-### Connect with Me
-### About Me
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac dolor vel libero faucibus bibendum.
+Hi there! I'm Boniface, a passionate developer interested in web technologies and open-source projects.
 
 ### Connect with Me
 

@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac dolor vel libe
 ### Connect with Me
 
 <a href="https://www.linkedin.com/in/your-linkedin-profile/">
-  <img src="icons/link.png" height="30" width="30" alt="LinkedIn">
+  <img src="link.png" height="30" width="30" alt="LinkedIn">
 </a>
 <a href="https://medium.com/@your-medium-profile/">
   <img src="icons/medium.png" height="30" width="30" alt="Medium">

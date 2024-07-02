@@ -54,8 +54,9 @@ technical_background:
   
 currently_learning: ["Docker, Kubernetes, and React Native"]
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
-
+hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]:
+,,,
+##### 🚀 Some of the tools i have used and learned
 
 
 

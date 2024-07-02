@@ -87,6 +87,8 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="45" height="45"/>
 </p>
+
+##### 
 ![Snake animation](https://github.com/bonifacemuriithi/bonifacemuriithi/blob/output/github-contribution-grid-snake.svg)
 
 

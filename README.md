@@ -57,6 +57,10 @@ currently_learning: ["Docker, Kubernetes, and React Native"]
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]:
 ```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thank%20you%20for%20visiting!&fontColor=gray"/>
+</p>
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
 <p align="left">
@@ -87,9 +91,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="45" height="45"/>
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thank%20you%20for%20visiting!&fontColor=gray"/>
-</p>
+
 
 
 

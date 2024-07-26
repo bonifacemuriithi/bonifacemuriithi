@@ -89,7 +89,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="45" height="45"/>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thank%20you%20for%20visiting!&fontColor=gray"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thank%20You&section=footer"/>
 </p>
 
 
